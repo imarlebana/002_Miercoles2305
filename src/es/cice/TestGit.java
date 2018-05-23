@@ -1,6 +1,6 @@
 package es.cice;
 
-public class Main {
+public class TestGit {
 
     public static void main(String[] args) {
 	// write your code here
